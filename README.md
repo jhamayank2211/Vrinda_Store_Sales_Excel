@@ -18,5 +18,8 @@ Dataset containing sales transactions including:
 16) Ship-State
 17) Ship-Postal-Code
 18) Ship-Country
-I have used my knowledge of MS-Excel to perform several tasks i.e. Data Cleaning and Preparation, Data Analysis and Visualization and Extracting Data Insights. 
+
+
+
+I have used my knowledge of MS-Excel to perform several tasks i.e. Data Cleaning and Preparation, Data Analysis and Visualization and Extracting Data Insights. I have created 6 charts to visualize the dataset and for gaining insights from them.
 
