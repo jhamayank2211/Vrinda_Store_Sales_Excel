@@ -1,0 +1,1 @@
+This project is based on MS-Excel. In this project, i have analysed a store's sales data and created an interactive dashboard to gain insights from the dataset. I have included various charts to create visualizations. In this project, i have compared 
